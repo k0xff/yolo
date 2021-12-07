@@ -6,6 +6,6 @@ wat
 salty mcsult
 \n\n
 :salt: :salt: :salt:
-\n\n
+\r\r
 :salt: :salt: :salt:
 
